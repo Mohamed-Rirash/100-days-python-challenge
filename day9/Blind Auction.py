@@ -1,5 +1,5 @@
 # Import the necessary modules
-from art import logo
+from day9.art import logo
 import os
 
 # Display the welcome message
