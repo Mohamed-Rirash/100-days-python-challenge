@@ -43,6 +43,7 @@ while is_continue:
     while a == b:
         b = random.choice(data)
         
+        
     #call the functon
     print(f"compare A: {format_data(a)}")
     print(vs)
@@ -60,6 +61,7 @@ while is_continue:
 
     is_correct = check_answer(guess=user_guess,a_flower=a_follower,b_flower=b_follower)
     os.system("clear")
+    print(logo)
     # Feedback.
     if is_correct:
     # Score Keeping.
@@ -70,8 +72,3 @@ while is_continue:
         print(f"sorry! that is wrong your finel score: {score}")
 
 
-# Make B become the next A.
-
-# Add art.
-
-# Clear screen between rounds.
