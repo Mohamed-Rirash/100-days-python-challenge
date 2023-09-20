@@ -1,19 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5875e68f-5983-42f3-b485-a240e309a9c7" name="Changes" comment="" />
+    <list default="true" id="5875e68f-5983-42f3-b485-a240e309a9c7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/100-days-python-challenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100-days-python-challenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/day1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/.idea/day1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day1/.idea/day1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/day1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/day10/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10/days In Month.py" beforeDir="false" afterPath="$PROJECT_DIR$/day10/days In Month.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/day11/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11/blackJack21.py" beforeDir="false" afterPath="$PROJECT_DIR$/day11/blackJack21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/day12/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12/number_guesing_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/day12/number_guesing_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13/debuging.py" beforeDir="false" afterPath="$PROJECT_DIR$/day13/debuging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/day14/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/game_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/day14/game_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14/heigh and law game.py" beforeDir="false" afterPath="$PROJECT_DIR$/day14/heigh and law game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/day2/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/BMI calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/BMI calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/tipcalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/tipcalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/day3/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/leapyear.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3/leapyear.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/love calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3/love calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/odd or even.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3/odd or even.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/pizza order.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3/pizza order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day3/tresureIsland.py" beforeDir="false" afterPath="$PROJECT_DIR$/day3/tresureIsland.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/day4/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/head and teil.py" beforeDir="false" afterPath="$PROJECT_DIR$/day4/head and teil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/rock paper scissors.py" beforeDir="false" afterPath="$PROJECT_DIR$/day4/rock paper scissors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/tresure map.py" beforeDir="false" afterPath="$PROJECT_DIR$/day4/tresure map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/whopaybill.py" beforeDir="false" afterPath="$PROJECT_DIR$/day4/whopaybill.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/add_even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/day5/add_even_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/avg_hieght.py" beforeDir="false" afterPath="$PROJECT_DIR$/day5/avg_hieght.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/fizzbuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/day5/fizzbuzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/heiest_score.py" beforeDir="false" afterPath="$PROJECT_DIR$/day5/heiest_score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day5/password_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/day5/password_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/hangman_Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/day7/hangman_Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/hangman_art.py" beforeDir="false" afterPath="$PROJECT_DIR$/day7/hangman_art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/hangman_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/day7/hangman_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/day8/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/day8/cipher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/paint_can_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/day8/paint_can_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day8/primeNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/day8/primeNumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day9/Blind Auction.py" beforeDir="false" afterPath="$PROJECT_DIR$/day9/Blind Auction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day9/art.py" beforeDir="false" afterPath="$PROJECT_DIR$/day9/art.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day9/dictionary in list exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/day9/dictionary in list exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day9/grading program.py" beforeDir="false" afterPath="$PROJECT_DIR$/day9/grading program.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2V1U77pWyjgX07xSSXDzPk3qHSx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,7 +87,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/rirash/DEVELOPMENT/python/100-days-python-challenge",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "settings.editor.splitter.proportion": "0.25597268"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,5 +103,16 @@
       <updated>1694002912811</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file:///usr/lib/python3/dist-packages/PIL/Image.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
