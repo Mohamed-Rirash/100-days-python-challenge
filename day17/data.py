@@ -1,0 +1,22 @@
+question_data = [
+{"question": "RAM stands for Random Access Memory.", "answer": True},
+    {"question": "HTML is a programming language.", "answer": False},
+    {"question": "Wi-Fi and the internet are the same thing.", "answer": False},
+    {"question": "JavaScript is primarily used for server-side programming.", "answer": False},
+    {"question": "A gigabyte is larger than a megabyte.", "answer": True},
+    {"question": "SSDs are faster than traditional HDDs.", "answer": True},
+    {"question": "USB stands for Universal Serial Bus.", "answer": True},
+    {"question": "Linux is a type of open-source software.", "answer": True},
+    {"question": "The CPU is also known as the brain of the computer.", "answer": True},
+    {"question": "HTTP stands for HyperText Transfer Protocol.", "answer": True},
+    {"question": "IPv6 has fewer available IP addresses than IPv4.", "answer": False},
+    {"question": "The 'Ctrl + Alt + Delete' key combination is used to restart a computer.", "answer": True},
+    {"question": "Python is a compiled programming language.", "answer": False},
+    {"question": "Virtual reality (VR) and augmented reality (AR) are the same thing.", "answer": False},
+    {"question": "Cookies are pieces of code stored on your computer that can track your online activities.", "answer": False},
+    {"question": "Bluetooth technology uses radio waves to connect devices wirelessly.", "answer": True},
+    {"question": "RAID is a technology used to increase the speed of internet connections.", "answer": False},
+    {"question": "The main purpose of a firewall is to protect a computer from physical damage.", "answer": False},
+    {"question": "HTML5 is the latest version of the HTML standard.", "answer": True},
+    {"question": "Machine learning is a branch of artificial intelligence that involves training computers to learn from data.", "answer": True}
+]
