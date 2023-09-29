@@ -40,14 +40,19 @@ while game_is_on:
 
     # detect collision with wall
     if snake.head.xcor() > 395 or snake.head.xcor() < -395 or snake.head.ycor() > 395 or snake.head.ycor() < -395:
-        game_is_on = False
-        score.game_over()
+        # game_is_on = False
+        # score.game_over() 
+        score.reset()
+        snake.reset()
    
     # detect collition with body
     for segment in snake.segments[1:]:
         if snake.head.distance(segment) < 10:
-            game_is_on = False
-            score.game_over()
+            # game_is_on = False
+            # score.game_over()
+            score.reset()
+            snake.reset()
+
 
 
     
