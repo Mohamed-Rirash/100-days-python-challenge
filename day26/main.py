@@ -46,15 +46,20 @@ data = pandas.read_csv("day26/nato_phonetic_alphabet.csv")
 
 
 
+while True:
 
 
 # #TODO 1. Create a dictionary in this format:
-phenatic_dict = {row.letter:row.code for (index, row) in data.iterrows()}
+    phenatic_dict = {row.letter:row.code for (index, row) in data.iterrows()}
 
 
 
 # #TODO 2. Create a list of the phonetic code words from a word that the user inputs.
-user_name = input("what is your name: ").upper()
-resutl = [phenatic_dict[letter] for letter in user_name ]
-
-print(resutl)
+    try:
+        user_name = input("what is your name: ").upper()
+        resutl = [phenatic_dict[letter] for letter in user_name ]
+    except KeyError:
+        print("pleae insert only charecters")
+    else:
+        print(resutl)
+        break
